@@ -5,6 +5,7 @@ module.exports = {
   plugins: [
     "gatsby-plugin-sass",
     "gatsby-plugin-image",
+    "gatsby-plugin-preact",
     {
       resolve: "gatsby-plugin-google-analytics",
       options: {
